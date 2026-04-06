@@ -15,9 +15,9 @@ from datetime import datetime
 # CONFIG
 BOT_TOKEN = "8599181842:AAEY1pmVQMEZltxH4mGoKt4peob7aeDC_eA"
 ADMIN_ID = 7209896142
-PLATFORM_NAME = "Profit edge"
-PLATFORM_URL = "https://profitedge.netlify.app"
-SUPPORT_USERNAME = "@ProfitEdgeSupport"
+PLATFORM_NAME = "GapEdge"
+PLATFORM_URL = "https://gapedge.netlify.app"
+SUPPORT_USERNAME = "@GapEdgeSupport"
 MIN_DEPOSIT = 500
 
 WALLETS = {
